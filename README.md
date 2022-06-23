@@ -1,0 +1,2 @@
+# WorkShopCSBQ
+Exercice 
